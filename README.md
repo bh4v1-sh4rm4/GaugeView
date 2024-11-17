@@ -1,6 +1,4 @@
 The gauge view looks like:
 
-
-
-https://github.com/user-attachments/assets/98a28e66-08c6-45b4-b332-f98749d4403d
+<img src="https://github.com/user-attachments/assets/974640ed-12ab-4e18-8aaa-d61650ec7333" width="200" height="400" align="center"/>
 
